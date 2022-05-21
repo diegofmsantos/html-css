@@ -1,0 +1,10 @@
+<html>
+    <head>
+<title>Meu site HTML4</title>
+    </head>
+    <body>
+        <h1>Exemplo de site em HTML4</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet ullam illum odit mollitia dolores officia impedit a ad rerum quaerat expedita dolorem, velit enim consectetur reprehenderit distinctio illo ratione? Officiis!</p>
+        <p>Teste de parágrafo</p>
+    </body>
+</html>
